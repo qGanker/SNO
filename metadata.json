@@ -1,0 +1,6 @@
+{
+  "name": "Учёт участников и задолженностей",
+  "description": "Система учёта участников, контроля задолженностей и пунктуальных сдатчиков с выгрузкой в Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
